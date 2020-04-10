@@ -27,8 +27,7 @@ Xiaoran Xu, <b>Songpeng Zu</b>, Yuan Zhang, Hanning Zhou, Wei Feng. <i>NIPS 2018
 Zijian Ding, <b>Songpeng Zu</b>, Jin Gu.
 <i>Bioinformatics  2016</i>
 
-<b>[Global optimization-based inference of chemogenomic features from
-drug–target interactions](https://beyondpie.github.io/publications/GIFT)</b> <br>
+<b>[Global optimization-based inference of chemogenomic features from drug–target interactions](https://beyondpie.github.io/publications/GIFT)</b> <br>
 <b>Songpeng Zu</b>, Ting Chen, Shao Li. <i>Bioinformatics 2015</i>
 
 
