@@ -4,11 +4,8 @@ collection: publications
 permalink: /publication/TCGA_PanCancer
 date: 2016-06-09
 venue: 'Bioinformatics'
-paperurl: 'https://academic.oup.com/bioinformatics/article-abstract/32/19/2891/2196464'
 citation: 'Zijian Ding, <b>Songpeng Zu</b>, Jin Gu. <i>Bioinformatics 2016</i>'
 ---
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf**
 
 [[PDF]](https://academic.oup.com/bioinformatics/article-pdf/32/19/2891/25072593/btw344.pdf)
 
