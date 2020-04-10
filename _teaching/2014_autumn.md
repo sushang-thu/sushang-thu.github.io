@@ -1,5 +1,4 @@
 ---
-title: "Teaching assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014_autumn

@@ -1,5 +1,4 @@
 ---
-title: "Teaching assistant"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2013_autumn
