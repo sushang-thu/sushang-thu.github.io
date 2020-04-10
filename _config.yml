@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Songpeng Zu"
+title                    : "Songpeng Zu"
 title_separator          : "-"
 name                     : &name "Songpeng Zu"
 description              : &description "Post-Doctoral Fellow in Statistics,Harvard University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Songpeng Zu"
+  name             : "Songpeng Zu"
   avatar           : "profile.jpg"
   bio              : "Post-Doctoral Fellow in Statistics,Harvard University"
   location         : "Boston, Massachusetts"
@@ -257,19 +257,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+# plugins:
+#   - jekyll-feed
+#   - jekyll-redirect-from
+# # mimic GitHub Pages with --safe
+# whitelist:
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
 
 
 # Archives
