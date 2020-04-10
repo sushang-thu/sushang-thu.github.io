@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Curriculum Vitae [PDF]](https://beyondpie.github.io/files/Resume_SongpengZu_Harvard.pdf)
+[Curriculum Vitae [PDF]](https://beyondpie.github.io/files/cv_postdoc.pdf)
 
 <!-- Education -->
 <!-- ====== -->
