@@ -1,7 +1,7 @@
 ---
 title: "Global optimization-based inference of chemogenomic features from drug–target interactions"
 collection: publications
-permalink: /publication/GIFT
+permalink: /publications/GIFT
 date: 2015-03-29
 venue: 'Bioinformatics'
 citation: '<b>Songpeng Zu</b>, Ting Chen, Shao Li. <i>Bioinformatics 2015</i>'
