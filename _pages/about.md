@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,6 +11,8 @@ redirect_from:
 <p align="center">
   <img src="https://beyondpie.github.io/files/songpeng.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
+
+# About Me
 My name is Songpeng Zu, coming from Liaoning Province, China. I got bachelor
 degree on biological science and technology in the School of Life Science at
 Tsinghua Univeristy, 2011. Then got the PhD degree on bioinformatics supervised
@@ -35,6 +37,13 @@ my dream. I am now a Post Doctoral supervised by Prof. Jun Liu, at Harvard
 University, Cambridge, MA. I focus on developing the algorithms on single-cell
 sequencing data, and study tumor immunotherapy. 
 
+# Recent News
 
+* March 14, 2020. One paper accepted to Bioinformatics
+* Feb 26, 2020. I got a funding support from the Harvard Data Science Initiative Postdoctoral Fellow Research Fund.
+
+# Academic Services
+* Reviewer: BMC Bioinformatics, IEEE/ACM Transactions on Computational Biology
+  and Bioinformatics
 
 
