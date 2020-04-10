@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the molecule-based prediction of clinical drug responses in cancer"
 collection: publications
-permalink: /publication/TCGA_PanCancer
+permalink: /publications/TCGA_PanCancer
 date: 2016-06-09
 venue: 'Bioinformatics'
 citation: 'Zijian Ding, <b>Songpeng Zu</b>, Jin Gu. <i>Bioinformatics 2016</i>'
