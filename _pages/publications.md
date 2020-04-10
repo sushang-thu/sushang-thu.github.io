@@ -5,7 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[]()</b> <br>
-<b>
-<i>
+<b>[Evaluating the molecule-based prediction of clinical drug responses in cancer](https://beyondpie.github.com/publications/TCGA_PanCancer)</b> <br>
+Zijian Ding, <b>Songpeng Zu<\b>, Jin Gu.
+<i>Bioinformatics  2016<\i>
+
+
+
+
+
 [\* denotes equal contribution]
