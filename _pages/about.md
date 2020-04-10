@@ -39,7 +39,7 @@ sequencing data, and study tumor immunotherapy.
 
 # Recent News
 
-* March 14, 2020. One paper accepted to Bioinformatics
+* March 14, 2020. One paper accepted to Bioinformatics.
 * Feb 26, 2020. I got a funding support from the Harvard Data Science Initiative Postdoctoral Fellow Research Fund.
 
 # Academic Services
