@@ -13,29 +13,27 @@ redirect_from:
 </p>
 
 # About Me
-My name is Songpeng Zu, coming from Liaoning Province, China. I got bachelor
-degree on biological science and technology in the School of Life Science at
-Tsinghua Univeristy, 2011. Then got the PhD degree on bioinformatics supervised
+My name is Songpeng Zu, coming from Liaoning Province, China. I got Bachelor
+on Biology in the School of Life Science at
+Tsinghua Univeristy, 2011. Then got the PhD on Control Science and Engineer supervised
 by Prof. Shao Li in the Department of Automation, Tsinghua Univeristy,
 Jan, 2017. My thesis focused on applying statistical machine learning on the
-inference of drug-protein interactions. 
+predicting drug-protein interactions. 
 
 As a machine learning researcher, I joined the recommendation team in HULU,
 Beijing right after my graduation, where I learned how to program seriously, how to handle
 big data, and especially how to use deep learning models on the online
 recommendation system. 
 
-In Nov 2018, I joined the DAMA Academy, Alibaba, as an senior algorithm
-engineering, where together with our team, we apply different deep learning
-techniques on the so called CityBrain project. From Alibaba, I learned the
-courage to challenge yourself, think big, and do quickly. It's an amazing
-experience. More importantly, it encourages me to choose what I really what to do in
+In Nov 2018, as an algorithm expert, I joined Tianji Team, CityBrain Lab under DAMO Academy, Alibaba. From Alibaba, I learned the
+courage to challenge self, think big, and act quickly. It's an amazing
+experience. More importantly, it encourages me to rethink what I really what to do for
 my whole life. 
 
-In Aug 2019, I left Alibaba and start again my academic career, which is always
-my dream. I am now a Post Doctoral supervised by Prof. Jun Liu, at Harvard
-University, Cambridge, MA. I focus on developing the algorithms on single-cell
-sequencing data, and study tumor immunotherapy. 
+In Aug 2019, I left Alibaba and started again my academic career, which is always
+my dream. I am now a Post Doctoral Fellow supervised by Prof. Jun Liu, at Harvard
+University, Cambridge, MA. I focus on statistical algorithm development and data analysis on single-cell
+sequencing data and tumor immunotherapy. 
 
 # Recent News
 

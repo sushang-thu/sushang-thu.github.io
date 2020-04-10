@@ -12,7 +12,7 @@ An R package to imputes "dropout" values (i.e. zero or small entries) in the sin
 
 <br>
 <b>[GIFT](https://github.com/beyondpie/GIFT)</b> <br>
-A C++/Matlab Package to infer the chemogenomic information based on drug-protein interactions.<br> 
+A C++ Package to infer the chemogenomic information based on drug-protein interactions.<br> 
 [Published](https://beyondpie.github.io/publications/GIFT) on <i>Bioinformatics 2015</i>.
 
 
