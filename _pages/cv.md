@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://beyondpie.github.io/files/Resume_SongpengZu_Harvard.pdf)
+[Curriculum Vitae [PDF]](https://beyondpie.github.io/files/Resume_SongpengZu_Harvard.pdf)
+
 <!-- Education -->
 <!-- ====== -->
 <!-- * B.S. in School of Life Science, Tsinghua University, 2007.08 - 2011.07 -->
