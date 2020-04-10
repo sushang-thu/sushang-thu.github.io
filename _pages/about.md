@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
+<p align="center">
+  <img src="https://beyondpie.github.io/files/songpeng.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 My name is Songpeng Zu, coming from Liaoning Province, China. I got bachelor
 degree on biological science and technology in the School of Life Science at
 Tsinghua Univeristy, 2011. Then got the PhD degree on bioinformatics supervised
