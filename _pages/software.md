@@ -12,7 +12,7 @@ An R package for single-cell RNASeq data imputation based on cell similarities a
 
 <br>
 <b>[GIFT](https://github.com/beyondpie/GIFT)</b> <br>
-A C++ p package to infer the chemogenomic information based on drug-protein interactions.<br> 
+A C++ package to infer the chemogenomic information based on drug-protein interactions.<br> 
 [Published](https://beyondpie.github.io/publications/GIFT) on <i>Bioinformatics 2015</i>.
 
 
