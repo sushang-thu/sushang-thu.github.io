@@ -1,7 +1,7 @@
 ---
 title: "VISAR: an interactive tool for dissecting chemical features learned by deep neural network QSAR models"
 collection: publications
-permalink: /publications/SIMPLEs
+permalink: /publications/VISAR
 date: 2020-03-14
 venue: 'Bioinformatics'
 citation: 'Qingyang Ding, <b>Songpeng Zu</b>, Siyu Hou, Yonghui Zhang, Shao Li. <i>Bioinformatics 2020</i>'
