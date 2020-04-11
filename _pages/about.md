@@ -14,7 +14,7 @@ redirect_from:
 
 # About Me
 My name is Songpeng Zu, coming from Liaoning Province, China. I got Bachelor
-on Biology in the School of Life Science at
+in Biological Science in the School of Life Science at
 Tsinghua Univeristy, 2011. Then got the PhD on Control Science and Engineer supervised
 by Prof. Shao Li in the Department of Automation, Tsinghua Univeristy,
 Jan, 2017. My thesis focused on applying statistical machine learning on the
