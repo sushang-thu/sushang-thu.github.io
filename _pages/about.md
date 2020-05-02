@@ -15,7 +15,7 @@ redirect_from:
 
 <p>Hi, great to meet you here!</p>
 <p>My name is Shang Su, currently a post-doctoral fellow in Dr. Xiaohong Li’s lab in Van Andel Institute (Grand Rapids, Michigan, US). This website is designed to post my tech blogs in learning bioinformatics and some research notes.</p>
-<p>You are also welcome to visit my personal blog in <a href="https://jixingsu.github.io/">Chinese</a> , where I post my daily experiences and thoughts.</p>
+<p>You are also welcome to visit my personal blog in <a href="https://sushang.life/">Chinese</a> , where I post my daily experiences and thoughts.</p>
 <p>I am still learning how to establish website. So if you see some weird things, just forget it!</p>
 
 # About Me
