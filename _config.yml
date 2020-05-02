@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Shang Su"
-  avatar           : "profile.jpg"
+  avatar           : "profile3.jpg"
   bio              : "A junior biologist pursuing academic career in US"
   location         : "Grand Rapids, Michigan"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=KSCNG_MAAAAJ&hl=en&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ewdZ_LsAAAAJ"
   email            : "shang.su # at # vai.org"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9753-5623"
+  orcid            : #"https://orcid.org/0000-0001-9753-5623"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
