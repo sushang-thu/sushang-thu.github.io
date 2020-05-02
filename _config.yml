@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Shang Su 苏尚"
 title_separator          : "-"
 name                     : &name "Shang Su"
-description              : &description "Post-Doctoral Fellow in Statistics,Harvard University"
-url                      : https://beyondpie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Post-Doctoral Fellow in Michigan"
+url                      : https://sushang-thu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "beyondpie/beyondpie.github.io"
+repository               : "sushang-thu/sushang-thu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shang Su"
-  avatar           : "profile(1).png"
+  avatar           : "profile3.jpg"
   bio              : "A junior biologist pursuing academic career in US"
   location         : "Grand Rapids, Michigan"
   employer         :
