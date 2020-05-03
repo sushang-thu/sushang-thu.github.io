@@ -3,15 +3,18 @@ main:
   - title: "CV"
     url: /files/cv_postdoc.pdf
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Software"
-    url: /software/
-
+  - title: "Research"
+    url: /research/
+  
   - title: "Teaching"
     url: /teaching/
+  
+  - title: "Tech blogs"
+    url: /posts/
 
+  - title: "News"
+    url: /news/
+    
   - title: "Contact"
     url: /contact/
 
