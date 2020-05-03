@@ -4,6 +4,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+These are Songpeng's papers. I am working on how to post mine.
 <br>
 <b>[VISAR: an interactive tool for dissecting chemical features learned by deep
 neural network QSAR models](https://beyondpie.github.io/publications/VISAR)</b> <br>
