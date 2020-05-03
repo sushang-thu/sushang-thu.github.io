@@ -1,10 +1,10 @@
 ---
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2012_autumn
-venue: "Department of Automation, Tsinghua University"
-date: 2012-09-01
-location: "Beijing, China"
+type: "graduate course"
+permalink: /teaching/2019_winter
+venue: "Graduate School, Van Andel Institute"
+date: 2019
+location: "Grand Rapids, Michigan"
 ---
 
-Teaching assistant of Systems Biology.
+Instructor of Scientific seminar discussion.
