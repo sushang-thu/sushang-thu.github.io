@@ -20,7 +20,10 @@ redirect_from:
 
 # About Me
 
-Wait! I am still thinking of how to wrap up an eye-catching introduction. LOL!
+I got both my PhD and BS degrees from School of Life Sciences in Tsinghua University, China. After a short dip into industrial job, I realized I am more enthusiastic in basic scientific research. So I came to US and joined Dr. Xiaohong Li's group as a post-doc.
+I am currently running a project in prostate cancer bone metastasis and a project in mitochondrial functions.
+
+In my previous experiences, I worked on cell cycle and Wnt signaling, also on PROTAC-induced CDK6 degradation.
 
 
 
