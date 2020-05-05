@@ -8,22 +8,25 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Curriculum Vitae [PDF]](https://beyondpie.github.io/files/cv_postdoc.pdf)
+[Curriculum Vitae [PDF]](https://sushang-thu.github.io/files/cv_postdoc.pdf)
 
 <!-- Education -->
 <!-- ====== -->
-<!-- * B.S. in School of Life Science, Tsinghua University, 2007.08 - 2011.07 -->
-<!-- * Ph.D in Department of Automation, Tsinghua University University, 2011.09 - 2017.01 -->
+<!-- * Ph.D in Biology, Tsinghua University, 2011.09 - 2019.10 -->
+<!-- * B.S. in Biology, Tsinghua University, 2007.09 - 2011.07 -->
+
+<!-- Research experiences -->
 
 <!-- Industrial experience -->
 <!-- ====== -->
-<!-- * 2018.12 - 2019.8: Algorithm Expert   -->
-<!--   * City Brain Lab, DAMA Academy, Alibaba, China -->
-<!--   * Duties included: designing algorithms for traffic flow forecasting system -->
+<!-- * 2019.05 - present: Post-doc fellow   -->
+<!--   * Laboratory of Tumor microenvironment and metastasis, Van Andel Institute, Grand Rapids, Michigan, US -->
+<!--   * Prostate cancer bone metastasis, drug resistance and Tumor dormancy
 
-<!-- * 2017.01 - 2018.11: Researcher -->
-<!--   * Recommendation Team, HULU, Beijing, China -->
-<!--   * Duties included: designing algorithms for recommendation system -->
+- Deciphering how bone microenvironment (mainly on osteoblast) is involved in metastasis and enzalutamide resistance of prostate cancer.
+-	Developing novel system to detect and monitoring tumor cell dormancy and re-proliferation.
+ -->
+
 
 <!-- Publications -->
 <!-- ====== -->
@@ -32,20 +35,16 @@ redirect_from:
 <!--   {% endfor %}</ul> -->
   
   
-<!-- Teaching -->
+<!-- Teaching Experience-->
 <!-- ====== -->
-<!-- * 2013.09 - 2014.01: Teaching Assistant  -->
-<!--   * Probabilistic Graphical Models for graduate students -->
-
-<!-- * 2014.09 - 2015.01: Teaching Assistant -->
-<!--   * Systems Biology for undergraduate students -->
+<!-- * 2019 - present: Group Leader  -->
+<!--   * High School Journal Club in Van Andel Education Institute -->
   
-<!-- * 2012.09 - 2013.01: Teaching Assistant -->
-<!--   * Systems Biology for undergraduate students -->
+<!-- * 2019 - present: Instructor  -->
+<!--   * Internal Seminar Course in Graduate School of Van Andel Institute -->
 
-<!-- Awards -->
+<!-- Awards and Honors -->
 <!-- ====== -->
-<!-- * National Scholarship for Graduate Students, 2015 -->
-<!-- * Tsinghua Scholarship for Overseas Graduate Studies, 2014 -->
-<!-- * Tsinghua Excellent Undergraduate Affair Counselor, 2013 -->
-<!-- * Tsinghua Zhongying Tang Scholarship, 2008 - 2010 -->
+<!-- * Excellent PhD student list in School of Life Sciences, Tsinghua University, 2016 -->
+<!-- * Tsinghua Scholarship for Graduate Student, “WU Zhengyi 3-generation”Memorial Award, 2014 -->
+<!-- * Level I Excellent Graduates of Tsinghua University (TOP 2% among 3000 graduates), 2012 -->
