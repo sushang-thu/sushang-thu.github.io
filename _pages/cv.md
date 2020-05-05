@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Curriculum Vitae [PDF]](https://sushang-thu.github.io/files/cv_postdoc.pdf)
+[Curriculum Vitae [PDF]](https://sushang-thu.github.io/files/CV_Shang_Su_2020.pdf)
 
 <!-- Education -->
 <!-- ====== -->
@@ -28,13 +28,7 @@ redirect_from:
  -->
 
 
-<!-- Publications -->
-<!-- ====== -->
-<!--   <ul>{% for post in site.publications %} -->
-<!--     {% include archive-single-cv.html %} -->
-<!--   {% endfor %}</ul> -->
-  
-  
+
 <!-- Teaching Experience-->
 <!-- ====== -->
 <!-- * 2019 - present: Group Leader  -->
