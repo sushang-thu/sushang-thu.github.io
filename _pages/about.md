@@ -14,9 +14,9 @@ redirect_from:
 
 
 <p>Hi, great to meet you here!</p>
-<p>My name is Shang Su, currently a post-doctoral fellow in Dr. Xiaohong Li’s lab in Van Andel Institute (Grand Rapids, Michigan, US). This website is designed to post my tech blogs in learning bioinformatics and some research notes.</p>
+<p>My name is Shang Su, currently a post-doctoral fellow in Dr. Xiaohong Li’s lab. We moved from Van Andel Institute (Grand Rapids, Michigan, US) to the University of Toledo Medical Center (Toledo, Ohio, US) in July, 2020. This website is designed to post my tech blogs in learning bioinformatics and some research notes.</p>
 <p>You are also welcome to visit my personal blog in <a href="https://sushang.life/">Chinese</a> , where I post my daily experiences and thoughts.</p>
-<p>I am still learning how to establish website. So if you see some weird things, just forget it!</p>
+<p>I am still learning how to establish website. So if you see some weird things, feel free to email me or just forget it lol!</p>
 
 # About Me
 
@@ -29,8 +29,10 @@ In my previous experiences, I worked on cell cycle and Wnt signaling, also on PR
 
 # Recent News
 
+* Shang settled down in Toledo and started to unpack the lab stuffs with colleagues on July 1st.
+* One of the manuscripts got major revision reviews in May.
 * Shang just learned several analysis pipelines in species-specific analysis of xenograft/coculture RNA-Seq samples.
-* Two manuscripted submitted in April 2020. Finger crossed!
+* Two manuscripts submitted in April 2020. Finger crossed!
 
 
 
