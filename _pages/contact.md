@@ -11,5 +11,5 @@ Email: shang.su [at] utoledo.edu<br>
 
 <p></p>
 For personal contact, email me for further info:<br>
-email: sushang.thubiology@gmail.com;ss07@tsinghua.org.cn;
+Email: sushang.thubiology@gmail.com;ss07@tsinghua.org.cn;
 
