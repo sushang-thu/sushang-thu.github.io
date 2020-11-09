@@ -20,7 +20,7 @@ redirect_from:
 
 # About Me
 
-I got both my PhD and BS degrees from School of Life Sciences in Tsinghua University, China. After a short dip into industrial job, I realized I am more enthusiastic in basic scientific research. So I came to US and joined Dr. Xiaohong Li's group as a post-doc.
+I got both my PhD and BS degrees from School of Life Sciences in Tsinghua University, China. After a short dip into industrial job, I realized I am more enthusiastic in basic scientific research. So I came to US and joined <a href="https://xiaohonglilab.com/">Dr. Xiaohong Li's group</a> as a post-doc.
 I am currently running a project in prostate cancer bone metastasis and a project in mitochondrial functions.
 
 In my previous experiences, I worked on cell cycle and Wnt signaling, also on PROTAC-induced CDK6 degradation.
@@ -29,6 +29,7 @@ In my previous experiences, I worked on cell cycle and Wnt signaling, also on PR
 
 # Recent News
 
+* Shang got invited as a volunteer reviewer for an article in PeerJ.
 * Shang settled down in Toledo and started to unpack the lab stuffs with colleagues on July 1st.
 * One of the manuscripts got major revision reviews in May.
 * Shang just learned several analysis pipelines in species-specific analysis of xenograft/coculture RNA-Seq samples.
