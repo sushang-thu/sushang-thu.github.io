@@ -9,9 +9,15 @@ author_profile: true
 The review title is "<i>Dive into single, seek out multiple: probing cancer metastases via single-cell sequencing and imaging techniques</i>".
 It took me and my mentor Dr. Li almost a full year to draft and modify for several versions.
 
+Cheers!
+
 <b>2021-2 The first paper I helped peer review published! Congrats to the author!</b> 
 
 A delightful experience!
+
+<b>2021-1 Shang awarded a scholarship to attend an eSymposia Virtual Meeting!</b> 
+
+This award offered a free registration to Keystone Symposia’s eSymposia on Tumor Metabolism and the Microenvironment - EK14 to be held January 25 - 28. A great symposium to learn more about tumor microenvironment.
 
 <b>2020-11 Finished the first review as a volunteer reviewer for PeerJ, an open-access journal</b> 
 
