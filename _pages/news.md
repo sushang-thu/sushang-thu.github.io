@@ -4,6 +4,15 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+<b>2021-2 My first Review paper in English accepted by Cancers, an open-access MDPI journal</b> 
+
+The review title is "<i>Dive into single, seek out multiple: probing cancer metastases via single-cell sequencing and imaging techniques</i>".
+It took me and my mentor Dr. Li almost a full year to draft and modify for several versions.
+
+<b>2021-2 The first paper I helped peer review published! Congrats to the author!</b> 
+
+A delightful experience!
+
 <b>2020-11 Finished the first review as a volunteer reviewer for PeerJ, an open-access journal</b> 
 
 I got an opportunity to review a research article in PeerJ. Starting to gain experiences and records for future career.
