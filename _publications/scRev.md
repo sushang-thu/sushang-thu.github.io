@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/scRev
 date: 2021-03-03
 venue: 'Cancers'
-citation: 'Shang Su, Xiaohong Li. <i>Cancers 2019</i>'
+citation: 'Shang Su, Xiaohong Li. <i>Cancers 2021</i>'
 ---
 
 [[PDF]](https://www.mdpi.com/2072-6694/13/5/1067/pdf)
