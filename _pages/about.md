@@ -29,10 +29,11 @@ In my previous experiences, I worked on cell cycle and Wnt signaling, also on PR
 
 # Recent News
 
-* Shang got invited as a volunteer reviewer for an article in PeerJ.
-* Shang settled down in Toledo and started to unpack the lab stuffs with colleagues on July 1st.
-* One of the manuscripts got major revision reviews in May.
-* Shang just learned several analysis pipelines in species-specific analysis of xenograft/coculture RNA-Seq samples.
+* A review paper got published by Cancers on Mar 3 2020. Cheers!
+* I got invited as a volunteer reviewer for an article in PeerJ. The paper I helped peer review got published in Feb 2021.
+* I settled down in Toledo and started to unpack the lab stuffs with colleagues on July 1st.
+* One of the manuscripts got major revision reviews in May 2020.
+* I just learned several analysis pipelines in species-specific analysis of xenograft/coculture RNA-Seq samples.
 * Two manuscripts submitted in April 2020. Finger crossed!
 
 
