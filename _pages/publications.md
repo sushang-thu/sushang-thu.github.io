@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 <br>
-<b>[Dive into Single, Seek out Multiple: Probing Cancer Metastases via Single-Cell Sequencing and Imaging Techniques](https://sushang-thu.github.io/publications/scRev)</b><br>
+<b>[Dive into Single, Seek out Multiple: Probing Cancer Metastases via Single-Cell Sequencing and Imaging Techniques](https://sushang-thu.github.io/publications/scRev)
+</b>
 <b>Shang Su</b>, Xiaohong Li. <i>Cancers 2021</i>
 </br>
 
