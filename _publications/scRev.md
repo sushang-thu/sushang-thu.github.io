@@ -1,7 +1,7 @@
 ---
 title: "Dive into Single, Seek out Multiple: Probing Cancer Metastases via Single-Cell Sequencing and Imaging Techniques"
 collection: publications
-permalink: /publications/enz
+permalink: /publications/scRev
 date: 2021-03-03
 venue: 'Cancers'
 citation: 'Shang Su, Xiaohong Li. <i>Cancers 2019</i>'
