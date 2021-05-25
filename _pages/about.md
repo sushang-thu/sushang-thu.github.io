@@ -29,12 +29,10 @@ In my previous experiences, I worked on cell cycle and Wnt signaling, also on PR
 
 # Recent News
 
+* I got approved for free registration to Keystone Symposia’s eSymposia on Targeted Protein Degradation: From Small Molecules to Complex Organelles - EK40 to be held June 7 - 8.
 * A review paper got published by Cancers on Mar 3 2020. Cheers!
 * I got invited as a volunteer reviewer for an article in PeerJ. The paper I helped peer review got published in Feb 2021.
-* I settled down in Toledo and started to unpack the lab stuffs with colleagues on July 1st.
-* One of the manuscripts got major revision reviews in May 2020.
-* I just learned several analysis pipelines in species-specific analysis of xenograft/coculture RNA-Seq samples.
-* Two manuscripts submitted in April 2020. Finger crossed!
+* I got approved for free registration to Keystone Symposia’s eSymposia on Tumor Metabolism and the Microenvironment - EK14 to be held January 25 - 28.
 
 
 
