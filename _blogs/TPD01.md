@@ -5,7 +5,7 @@ permalink: /blogs/TPD01
 date: 2021-05-31
 ---
 
-My own story: How I got into this field
+# My own story: How I got into this field
 
 TPD, the short for "Targeted Protein Degradation", is a popular term in recent biomedical cover stories. It denotes a series of biological and chemical approaches to trigger the degradation of certain target proteins by taking advantages of cellular protein degradation machineries. In other words, manipulating the cellular machineries to attack and degrade proteins of interest specifically. Sounds fantastic, right?
 
@@ -15,11 +15,4 @@ Later when I joined Dr. Wu's group in Tsinghua University, one of my senior coll
 
 When it came to my own PhD thesis, I chose a project on PROTAC.
 
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+To be continued.
