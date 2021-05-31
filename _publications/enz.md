@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/enz
 date: 2019-11-04
 venue: 'BioRxiv'
-citation: 'Shang Su\*, Jingchen Cao\*, Xiangqi Meng\*, Ruihua Liu, Alexandra Vander Ark, Erica Woodford, Reian Zhang, Isabelle Stiver, Xiaotun Zhang, Zachary B. Madaj, Megan J. Bowman, Yingying Wu, H. Eric Xu, Bin Chen, Haiquan Yu, Xiaohong Li. <i>BioRxiv 2019</i>'
+citation: 'Shang Su, Jingchen Cao, Xiangqi Meng, Ruihua Liu, Alexandra Vander Ark, Erica Woodford, Reian Zhang, Isabelle Stiver, Xiaotun Zhang, Zachary B. Madaj, Megan J. Bowman, Yingying Wu, H. Eric Xu, Bin Chen, Haiquan Yu, Xiaohong Li. <i>BioRxiv 2019</i>'
 ---
 
 [[PDF]](https://www.biorxiv.org/content/10.1101/829044v2.full.pdf)
