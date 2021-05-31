@@ -1,7 +1,7 @@
 ---
 title: 'TPD series 01: the concept'
 collection: blogs
-permalink: /blogs/tpd01
+permalink: /blogs/TPD01
 date: 2021-05-31
 ---
 
