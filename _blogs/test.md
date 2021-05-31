@@ -1,7 +1,7 @@
 ---
 title: 'Reference gene in qPCR'
 collection: blogs
-permalink: /blogs/2021-05-31
+permalink: /blogs/test
 date: 2021-05-31
 ---
 
