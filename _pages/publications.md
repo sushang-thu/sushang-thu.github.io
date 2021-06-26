@@ -13,7 +13,7 @@ author_profile: true
 <b>Shang Su</b>\#, Jingchen Cao\#, Xiangqi Meng\#, Ruihua Liu, Alexandra Vander Ark, Erica Woodford, Reian Zhang, Isabelle Stiver, Xiaotun Zhang, Zachary B. Madaj, Megan J. Bowman, Yingying Wu, H. Eric Xu, Bin Chen, Haiquan Yu, Xiaohong Li. <i>BioRxiv 2019</i>
 
 <b>[Potent and Preferential Degradation of CDK6 via Proteolysis Targeting Chimera Degraders](https://sushang-thu.github.io/publications/CDK6PROTAC)</b><br>
-<b>Shang Su</b>\#, Zimo Yang\#, Hongying Gao, Haiyan Yang, Songbiao Zhu, Zixuan An, Juanjuan Wang, Qing Li, Sarat Chandarlapaty, Haiteng Deng, Wei Wu*, Yu Rao* <i>Journal of Medicinal Chemistry 2019</i>
+<b>Shang Su</b>\#, Zimo Yang\#, Hongying Gao, Haiyan Yang, Songbiao Zhu, Zixuan An, Juanjuan Wang, Qing Li, Sarat Chandarlapaty, Haiteng Deng, Wei Wu*, Yu Rao*. <i>Journal of Medicinal Chemistry 2019</i>
 
 
 
