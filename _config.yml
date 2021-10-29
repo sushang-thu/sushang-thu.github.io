@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shang Su 苏尚"
 title_separator          : "-"
 name                     : &name "Shang Su"
-description              : &description "Post-Doctoral Fellow in Michigan"
+description              : &description "Post-Doctoral Fellow in Toledo, Ohio"
 url                      : https://sushang-thu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sushang-thu/sushang-thu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shang Su"
   avatar           : "profile3.jpg"
-  bio              : "A junior biologist pursuing academic career in US"
+  bio              : "A self-motivated biologist pursuing academic career in US"
   location         : "Toledo, Ohio"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ewdZ_LsAAAAJ"
