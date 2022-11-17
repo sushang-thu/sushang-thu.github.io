@@ -16,3 +16,4 @@ Later when I joined Dr. Wu's group in Tsinghua University, one of my senior coll
 When it came to my own PhD thesis, I chose a project on PROTAC.
 
 To be continued.
+Please expect a series of update by the end of 2022.
