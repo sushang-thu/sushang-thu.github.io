@@ -29,6 +29,8 @@ In my previous experiences, I worked on cell cycle and Wnt signaling, also on PR
 
 # Recent News
 
+(For more details of my updates please check the "News" section)
+
 * I gave a 15-min presentation on the 2021 Larry E. Gentry Fall Research Forum in the University of Toledo and got awarded "Excellence Award for Outstanding Postdoctoral Fellow Achievement in Cancer Biology". High Five!
 * I got approved for free registration to Keystone Symposia’s eSymposia on Targeted Protein Degradation: From Small Molecules to Complex Organelles - EK40 to be held June 7 - 8.
 * A review paper got published by Cancers on Mar 3 2020. Cheers!
