@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 {% include base_path %}
-[Curriculum Vitae [PDF]](https://sushang-thu.github.io/files/CV_Shang_Su_1123.pdf)
+[Curriculum Vitae [PDF]](https://sushang-thu.github.io/files/Biosketch202307.pdf)
