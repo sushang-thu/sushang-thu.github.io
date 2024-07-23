@@ -4,8 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-I am currently working on two projects.
+I will initially focus on three projects in my research lab.
 
-1) enzalutamide resistance in prostate cancer bone metastasis
+1) Exploration of transcription factors that determine the cellular dormancy fate of disseminated prostate cancer cells. 
 
-2) driving signature in prostate cancer bone metastasis
+2) Development of a novel loci-specific proteomic approach to reveal new transcription regulators of key driver genes in prostate cancer. 
+
+3) Development of peptide PROTAC degraders against undruggable target proteins in prostate cancer. 

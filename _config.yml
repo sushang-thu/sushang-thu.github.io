@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Shang Su"
   avatar           : "profile3.jpg"
-  bio              : "A self-motivated biologist pursuing academic career in US"
-  location         : "Toledo, Ohio"
+  bio              : "Assistant Professor at Louisiana State University. 
+  I am interested in applications of targeted protein degradation techniques in deciphering the mechanisms of and fighting against cancer metastases"
+  location         : "Toledo, Ohio; Baton Rouge, Louisiana"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ewdZ_LsAAAAJ"
   email            : "shang.su # at # utoledo.edu"
@@ -98,13 +99,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/shang-su/"
   orcid            : "https://orcid.org/0000-0003-0228-5380"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :

@@ -12,5 +12,7 @@ Lab Phone: +1-419-383-4446<br>
 Office Phone: +1-419-383-3579<br>
 Email: shang.su [at] utoledo.edu<br>
 
+LSU contact information to be updated soon.
+
 I will try to reply every sincere reachout. Thanks!
 

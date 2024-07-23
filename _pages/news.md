@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 This page displays my updates of research life in a reverse chronological order.
+The most recent news can be found in my homepage.
 
 <b> 2022-11 I finished 17 peer reviews! </b>
 I am proud to serve as the volunteer reviewer for 17 manuscripts and most of them have been published.
