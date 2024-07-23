@@ -31,13 +31,13 @@ In my previous experiences, I worked on cell cycle and Wnt signaling, also on PR
 
 # Recent News
 
-(For more details of my updates please check the "News" section)
-<strong>2024-07</strong> Attending the NCI-funded BIGCARE bioinformatic workshop. 830am to 9pm everyday, intensive and informative!
-<strong>2024-07</strong> Submitted two DOD EHDA proposals. Finger crossed!
-<strong>2024-06</strong> Submitted a DOD concept award proposal. Finger crossed!
-<strong>2024-05</strong> I signed the offer from LSU. Started the onboarding process. Thanks so much to my mentors, collaboraters, and colleagues who spared no efforts in helping me landing in this position. So excited!
-<strong>2023-11</strong> Attended the AACR workshop! Learned a lot~
-<strong>2023-11</strong> I gave a talk in Dr. Changmeng Cai's group at UMass Boston. This is my first invited formal seminar!
+(For more details of my updates please check the "News" section)<br>
+<strong>2024-07</strong> Attending the NCI-funded BIGCARE bioinformatic workshop. 830am to 9pm everyday, intensive and informative!<br>
+<strong>2024-07</strong> Submitted two DOD EHDA proposals. Finger crossed!<br>
+<strong>2024-06</strong> Submitted a DOD concept award proposal. Finger crossed!<br>
+<strong>2024-05</strong> I signed the offer from LSU. Started the onboarding process. Thanks so much to my mentors, collaboraters, and colleagues who spared no efforts in helping me landing in this position. So excited!<br>
+<strong>2023-11</strong> Attended the AACR workshop! Learned a lot~<br>
+<strong>2023-11</strong> I gave a talk in Dr. Changmeng Cai's group at UMass Boston. This is my first invited formal seminar!<br>
 <strong>2023-08</strong> So happy that I am accepted into the 2023 AACR TRANSLATIONAL CANCER RESEARCH FOR BASIC SCIENTISTS WORKSHOP! I submitted the application for the third time and finally get admitted. This is an innovative workshop for basic scientists pursuing training in order to transition into translational cancer research.<br>
 <strong>2023-07</strong> I am now a Research Assistant Professor at the Department of Cell and Cancer Biology, the University of Toledo. A good start for my upcoming faculty job application. Cheers! <br>
 <strong>2022-11</strong>  I got the Exploration-Hypothesis Development Award from the Department of Defense! The proposals were submited in June and funding notice received in late October!
